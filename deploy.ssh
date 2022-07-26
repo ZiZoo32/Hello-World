@@ -1,0 +1,3 @@
+#!/bin/bash
+
+docker container run -p 80:80 -d --rm --name nginx_hello_world nginx_hello_world
